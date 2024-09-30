@@ -76,7 +76,7 @@ By default, the frontend will run on http://localhost:3000.
 - **Backend (Express.js):**
 ```
    cd backend
-   npm run dev
+   npm run start
 ```
 By default, the backend will run on http://localhost:5000.
 ## Project Structure
